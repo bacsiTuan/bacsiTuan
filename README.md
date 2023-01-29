@@ -32,6 +32,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="25" height="25" />
 </p>
 
+## 🖥 &nbsp;Personal work
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bacsiTuan&repo=pielock&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/bacsiTuan/pielock) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bacsiTuan&repo=executor&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/bacsiTuan/executor)
+
 <h2>📊 Stats</h2>
 <picture>
 <source
