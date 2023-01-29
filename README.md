@@ -10,7 +10,7 @@
 <li>🔭 I’m currently working with Python and Go.</li>
 <li>🧐 Learning about <strong>system desgin</strong>, <strong>distributed systems</strong>, and a bit of <strong>ML</strong>.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/bacsiTuan">Github</a>.</li>
-<li>💬 Ping me about <strong>python, go, security, and network stuff</strong>.</li>
+<li>💬 Ping me about <strong>Python, Go, Security, and Network stuff</strong>.</li>
 <li>📙 Check out my <del><a href="">resume</a></del> (not ready yet).</li>
 <li>🎉 Fun Fact: Xuân kiếm lì xì, hạ kiếm kem, thu kiếm hoa sữa, đông kiếm em。</li>
 </ul>
